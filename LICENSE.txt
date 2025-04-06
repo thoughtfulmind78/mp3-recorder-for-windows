@@ -1,0 +1,39 @@
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+Copyright (C) <2025> <leonard>
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+Preamble:
+
+Mp3-Cool-Recorder-For-Windows2.09 is provided to you under the terms of the GNU General Public License version 2. This means you have certain freedoms regarding its use, distribution, and modification.
+
+Regarding Modification and Decompilation:
+
+You may use this application freely. However, you are **not permitted to decompile or modify the source code** of Mp3-Cool-Recorder-For-Windows2.09 unless you have sent a full request for modification to the developer and received explicit permission.
+
+Distribution:
+
+You are encouraged to share this application with your friends and relatives who may find it useful. You may distribute copies of the original, unmodified executable.
+
+Terms and Conditions of Use:
+
+1. This application should not be used for any malicious or harmful purposes.
+2. The developer shall not be held responsible or liable for any negative consequences or problems arising from the misuse of this application. The user assumes full responsibility for their actions while using this software.
+3. This application is intended for productive and ethical use only.
+
+END OF TERMS AND CONDITIONS
+
